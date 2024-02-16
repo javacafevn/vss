@@ -8,7 +8,15 @@
 		"Port": "8989",
 		"Rules": {
 			"akamai.net:80": [
-				"125.235.36.177"
+				"125.235.36.177",
+				"video.iflix.com",
+        			"videocdn-2.iflix.com",
+        			"iflix-videocdn-p1.akamaized.net",
+        			"iflix-videocdn-p2.akamaized.net",
+        			"iflix-videocdn-p3.akamaized.net",
+        			"iflix-videocdn-p6.akamaized.net",
+        			"iflix-videocdn-p7.akamaized.net",
+        			"iflix-videocdn-p8.akamaized.net"
 			]
 		},
 		"Payload": "",
